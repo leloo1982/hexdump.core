@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
-
+//Comment
 namespace HexDump
 {
     public class ConcatenatedStream : Stream
